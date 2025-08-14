@@ -38,5 +38,4 @@ Pizza Sales Analysis (MSSQL Project)
   Ensure Microsoft SQL Server is installed and running.
   Restore/create the database with tables: orders, order_details, pizzas, pizza_types.
   Run SQLProjectPizza_Sales.sql in SQL Server Management Studio (SSMS).
-
-Open Pizza_Sales_Report.pdf to view insights and query results.
+  Open Pizza_Sales_Report.pdf to view insights and query results.
